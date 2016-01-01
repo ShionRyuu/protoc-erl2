@@ -1,0 +1,24 @@
+# backup
+*~
+
+# erlang
+*.beam
+erl_crash.dump
+.rebar/
+.eunit/
+deps/
+ebin/
+include/
+
+# IDEA
+.idea/
+*.iml
+
+# svn
+.svn/
+
+# vim
+*.swp
+
+# project
+protoc-erl

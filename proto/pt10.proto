@@ -1,0 +1,6 @@
+
+// pt10001
+message pt10001_tos {
+	required string account = 1; // player account
+}
+
