@@ -11,6 +11,7 @@ before_script:
 script: "make && make test"
 
 otp_release:
+  - 18.0
   - 17.0
   - R16B03-1
   - R16B03
